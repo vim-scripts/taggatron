@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4088
+
+A simple tag file manager for Vim
+------------------------------------------------
+
+Are you managing your tag files manually? Are you constantly trying to recall the right command line arguments for ctags-exuberant? Would you like a very light tag manager to solve your problems? Look no further.
+
+Taggatron allows you to set up rules for creating your tag files, based on the language. It separates tag files for different languages (I decided this was the way I wanted to go, as it is neater and easier to maintain), and incorporates the Autotag script by Craig Emery to update tag files incrementally as you edit your files.
+
+For information on how to configure and use Taggatron, go to the source code repository on github: https://github.com/joonty/vim-taggatron
+
